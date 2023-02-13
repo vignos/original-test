@@ -1,3 +1,3 @@
 # now on a feature branch
 
-Commit "1" on "original" (interleaving test)
+Commit "3" on "original" (interleaving test)
