@@ -1,3 +1,3 @@
 # now on a feature branch
 
-Commit "3" on "original" (interleaving test)
+Commit "4" on "secondary" (interleaving test post-sync attempt)
